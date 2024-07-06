@@ -1,0 +1,16 @@
+{
+  "name": "articles-crud",
+  "version": "1.0.0",
+  "description": "A simple CRUD application for articles",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -o ./public/css/tailwind.css",
+    "watch": "npx tailwindcss -o ./public/css/tailwind.css --watch"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.4"
+  },
+  "devDependencies": {},
+  "author": "Dinaz12",
+  "license": "ISC"
+}
