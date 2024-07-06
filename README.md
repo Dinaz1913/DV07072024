@@ -44,7 +44,7 @@ This project utilizes the following dependencies:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/ArticlesWebsite.git
+    git clone https://github.com/Dinaz1913/DV07072024.git
     cd ArticlesWebsite
     ```
 
